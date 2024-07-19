@@ -30,3 +30,18 @@ Dashboard:
 
 The Qlik Sense dashboard PDF can be viewed using any PDF reader.
 It provides visualizations and insights that are derived from the dataset, helping to identify key trends and areas for improvement.
+
+Clone the repository:
+git clone https://github.com/yourusername/airline-analysis-dashboard.git
+cd airline-analysis-dashboard
+
+Explore the Dataset:
+
+Open the 'Airline Dataset.csv ' file in your preferred data analysis tool.
+Perform exploratory data analysis to understand the structure and key variables.
+
+Review the Dashboard:
+
+Open the 'Qlik.Sense.-.Airline.Analysis.Dashboard.-.June.8.2024.pdf' file.
+Navigate through the different sections to gain insights from the visualizations.
+
